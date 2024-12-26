@@ -1,4 +1,4 @@
 # thesajeelahmad.github.io
 Website
 
-[photos](thesajeelahmad.github.io/photography)
+[photos](https://thesajeelahmad.github.io/photography)
